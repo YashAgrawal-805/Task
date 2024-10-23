@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
 async function sendEmailAlert(subject, message) {
   const mailOptions = {
     from: process.env.EMAIL_USER,
-    to: 'yashagr.805@gmail.com',
+    to: process.env.EMAIL_RECIEVER,
     subject: subject,
     text: message
   };
