@@ -1,0 +1,185 @@
+{
+    "campaigns": [
+      {
+        "id": 1,
+        "name": "Fall Promotion",
+        "budget": 5000,
+        "status": "Active",
+        "start_date": "2023-10-01",
+        "end_date": "2023-10-31",
+        "created_at": "2023-09-15"
+      },
+      {
+        "id": 2,
+        "name": "Holiday Sale",
+        "budget": 10000,
+        "status": "Planned",
+        "start_date": "2023-12-01",
+        "end_date": "2023-12-25",
+        "created_at": "2023-10-05"
+      },
+      {
+        "id": 3,
+        "name": "New Year Campaign",
+        "budget": 2000,
+        "status": "Completed",
+        "start_date": "2023-01-01",
+        "end_date": "2023-01-15",
+        "created_at": "2022-12-10"
+      },
+      {
+        "id": 4,
+        "name": "Spring Sale",
+        "budget": 3000,
+        "status": "Active",
+        "start_date": "2023-04-01",
+        "end_date": "2023-04-30",
+        "created_at": "2023-03-20"
+      },
+      {
+        "id": 5,
+        "name": "Summer Fest",
+        "budget": 7000,
+        "status": "Planned",
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-15",
+        "created_at": "2023-06-01"
+      },
+      {
+        "id": 6,
+        "name": "Black Friday Sale",
+        "budget": 15000,
+        "status": "Active",
+        "start_date": "2023-11-24",
+        "end_date": "2023-11-27",
+        "created_at": "2023-10-20"
+      },
+      {
+        "id": 7,
+        "name": "Cyber Monday Deals",
+        "budget": 12000,
+        "status": "Planned",
+        "start_date": "2023-11-28",
+        "end_date": "2023-11-30",
+        "created_at": "2023-11-01"
+      },
+      {
+        "id": 8,
+        "name": "Valentine's Day Special",
+        "budget": 8000,
+        "status": "Completed",
+        "start_date": "2023-02-01",
+        "end_date": "2023-02-14",
+        "created_at": "2023-01-10"
+      },
+      {
+        "id": 9,
+        "name": "Mother's Day Campaign",
+        "budget": 6000,
+        "status": "Planned",
+        "start_date": "2023-05-01",
+        "end_date": "2023-05-14",
+        "created_at": "2023-04-10"
+      },
+      {
+        "id": 10,
+        "name": "Father's Day Deals",
+        "budget": 6500,
+        "status": "Completed",
+        "start_date": "2023-06-01",
+        "end_date": "2023-06-18",
+        "created_at": "2023-05-15"
+      },
+      {
+        "id": 11,
+        "name": "Back to School Sale",
+        "budget": 5000,
+        "status": "Active",
+        "start_date": "2023-08-01",
+        "end_date": "2023-08-15",
+        "created_at": "2023-07-15"
+      },
+      {
+        "id": 12,
+        "name": "Halloween Spooktacular",
+        "budget": 4000,
+        "status": "Planned",
+        "start_date": "2023-10-20",
+        "end_date": "2023-10-31",
+        "created_at": "2023-09-25"
+      },
+      {
+        "id": 13,
+        "name": "Christmas Special",
+        "budget": 12000,
+        "status": "Active",
+        "start_date": "2023-12-10",
+        "end_date": "2023-12-25",
+        "created_at": "2023-11-20"
+      },
+      {
+        "id": 14,
+        "name": "New Product Launch",
+        "budget": 10000,
+        "status": "Completed",
+        "start_date": "2023-03-01",
+        "end_date": "2023-03-10",
+        "created_at": "2023-02-10"
+      },
+      {
+        "id": 15,
+        "name": "Easter Surprise",
+        "budget": 5500,
+        "status": "Planned",
+        "start_date": "2023-04-15",
+        "end_date": "2023-04-21",
+        "created_at": "2023-03-30"
+      },
+      {
+        "id": 16,
+        "name": "End of Year Clearance",
+        "budget": 9000,
+        "status": "Active",
+        "start_date": "2023-12-26",
+        "end_date": "2023-12-31",
+        "created_at": "2023-11-30"
+      },
+      {
+        "id": 17,
+        "name": "Labor Day Deals",
+        "budget": 4500,
+        "status": "Completed",
+        "start_date": "2023-09-01",
+        "end_date": "2023-09-05",
+        "created_at": "2023-08-15"
+      },
+      {
+        "id": 18,
+        "name": "Memorial Day Sales",
+        "budget": 3500,
+        "status": "Completed",
+        "start_date": "2023-05-25",
+        "end_date": "2023-05-31",
+        "created_at": "2023-05-01"
+      },
+      {
+        "id": 19,
+        "name": "Fourth of July Celebration",
+        "budget": 7000,
+        "status": "Active",
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-04",
+        "created_at": "2023-06-10"
+      },
+      {
+        "id": 20,
+        "name": "Year-End Blowout",
+        "budget": 16000,
+        "status": "Planned",
+        "start_date": "2023-12-20",
+        "end_date": "2023-12-31",
+        "created_at": "2023-12-01"
+      }
+    ]
+  }
+  
